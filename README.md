@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi 👋, I'm Neko-Arct</h1>
+<h1 align="center">Hi 👋, I'm Abhinaya</h1>
 <h3 align="center">🔭 I’m currently a student</h3>
 
 ### 🛠 &nbsp;Tech Stacks
