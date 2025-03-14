@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋! My name is Abhinaya and 
+
+🔭 I’m currently Stustudying Informatics at the Muhammadiyah University of Surakarta.<br>🌱 I’m currently learning AI, Mechine Lerning<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
