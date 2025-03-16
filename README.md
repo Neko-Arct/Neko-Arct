@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💫 Hi 👋! My name is Abhinaya and 
+# 💫 Hi 👋! My name is Abhinaya 
 
-🔭 I’m currently Stustudying Informatics at the Muhammadiyah University of Surakarta.<br>🌱 I’m currently learning AI, Mechine Lerning<br>⚡ Fun fact 
+🔭 I’m currently Stustudying Informatics at the Muhammadiyah University of Surakarta.<br>🌱 I’m currently learning AI, Mechine Lerning<br>⚡ Fun fact I'm still need to learn a lot.
 
 
 ## 🌐 Socials:
@@ -17,5 +17,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neko-Arct&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+<img src="https://raw.githubusercontent.com/josumaru/josumaru/output/snake.svg" alt="Snake animation" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
