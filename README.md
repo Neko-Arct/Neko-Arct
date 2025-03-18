@@ -17,5 +17,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neko-Arct&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-<img src="https://raw.githubusercontent.com/josumaru/josumaru/output/snake.svg" alt="Snake animation" />
